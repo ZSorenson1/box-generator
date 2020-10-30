@@ -1,3 +1,10 @@
+.box {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
 .App {
   text-align: center;
 }
